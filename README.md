@@ -4,3 +4,4 @@
 2.打开前先安装依赖 npm i
 3.npm run dev启动项目   默认端口是http://localhost:8080
 
+登录页的账号和密码为user pass
